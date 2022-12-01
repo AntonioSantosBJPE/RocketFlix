@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-Neste projeto foi utilizada a API do site <a href="https://themoviedb.org" target="_blank">themoviedb</a> para exibir um um filme aleatório na tela, sempre que for realizado um click no botão (Encontrar filme). Esta aplicação foi inspirada no projeot desenvolvido pelo site <a href="https://app.rocketseat.com.br/dashboard" target="_blank"> Rocktseat</a>
+Neste projeto foi utilizada a API do site <a href="https://themoviedb.org" target="_blank">themoviedb</a> para exibir um um filme aleatório na tela, sempre que for realizado um click no botão (Encontrar filme). Esta aplicação foi inspirada no projeto desenvolvido pelo site <a href="https://www.rocketseat.com.br/" target="_blank"> Rocktseat</a>
 
 ## :books: Funcionalidades
 
